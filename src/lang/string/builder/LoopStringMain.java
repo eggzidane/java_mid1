@@ -12,6 +12,5 @@ public class LoopStringMain {
 
         System.out.println("result = " + result);
         System.out.println("time = " + (endTime - startTime) + "ms");
-
     }
 }
