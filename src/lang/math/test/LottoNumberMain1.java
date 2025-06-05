@@ -9,6 +9,5 @@ public class LottoNumberMain1 {
         int[] numbers = lottoGenerator.generate();
         Arrays.sort(numbers);
         System.out.println("로또 번호: " + Arrays.toString(numbers));
-
     }
 }
